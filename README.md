@@ -1,6 +1,6 @@
 # lojaonlinegerencia
 
-A new Flutter project.
+App Flutter para gerenciar o app Loja Online
 
 ## Getting Started
 
